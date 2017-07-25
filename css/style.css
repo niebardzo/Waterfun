@@ -1,0 +1,169 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.img-rounded{
+		border-radius: 32px;
+		margin-top: 15px;
+		margin-left: 88px;
+		margin-right: 8px;
+}
+.logo-top{
+	font-family: 'Titan One', cursive;
+	font-size: 40px !important;
+	}
+.clear-both{
+	clear:both;
+}
+.right{
+		margin-right: 88px;
+
+}
+.right li {
+			font-family: 'Titan One';
+			margin-right: 16px;
+}
+.side-nav li{
+	font-family: 'Titan One';
+}
+.collection .collection-item{
+    cursor: pointer;
+}
+
+.collection .collection-header h4{
+		color: #37474f;
+		padding: 10px 20px;
+		border-bottom: 1px solid #e0e0e0;
+}
+.right li a i {
+	text-align: center;
+}
+.text-bold{
+		font-weight: 900;
+		text-shadow: 2px 3px black;
+		letter-spacing: 2px;
+}
+.text-bold-light{
+	font-weight: 900;
+	text-shadow: 1px 2px black;
+	letter-spacing: 2px;
+}
+
+.caption {
+	font-size: 14px;
+	position: absolute;
+	bottom: -30px;
+	left: 0;
+	text-align: center;
+	width: 100%;
+	color: white;
+	margin-bottom: 16px;
+	text-shadow: 1px 1px black;
+
+}
+.clock-container {
+	text-align: center;
+	height: 160px;
+	margin-top: 0;
+}
+body{
+	/* Background pattern from Subtle Patterns */
+background-image: url("../img/background/play.png");
+}
+.big-text{
+
+	font-family: 'Titan One', cursive;
+	font-size: 32px;
+	color: white;
+	text-align: center;
+	margin-bottom: 16px;
+	margin-top: 16px;
+}
+.text-plain{
+	font-family: 'Titan One', cursive;
+	font-size: 18px;
+	color: #ff4081;
+	text-align: center;
+}
+.slider ul li{
+	border-radius: 32px;
+}
+.slider ul{
+	border-radius: 32px;
+}
+.slider .indicators .indicator-item{
+	background-color: #1a237e;
+}
+.slider .indicators .indicator-item.active{
+	background-color: #eeff41;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+.page-footer .footer-copyright{
+	color: #3d5afe;
+	margin-bottom: 16px;
+	text-shadow: 1px 1px #3d5afe;
+	font-weight: 900;
+	background-color: white;
+}
+.page-footer .footer-copyright a{
+	color: #3d5afe;
+	text-shadow: 1px 1px #3d5afe;
+}
+.page-footer{
+	margin: 0;
+	border-top: 1px inset #bbdefb;
+	background-color: white;
+}
+.page-footer .footer-copyright .element{
+	width:33%;
+	float:left;
+	text-align: center;
+	padding-top: 6px;
+}
+.page-footer .footer-copyright .face{
+	padding-top: 0px;
+}
+.page-footer .footer-copyright a:hover{
+	text-decoration: none;
+	color: #ffff00;
+}
+#sidenav-overlay{
+	z-index: 50;
+}
+.rounded{
+	border-radius: 20px;
+}
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+#intro{
+	margin-bottom: 72px;
+	margin-top: 32px;
+}
+#mapa img{
+	margin-top: 32px;
+}
+.text-plain-kontakt {
+	color: #3d5afe;
+}
