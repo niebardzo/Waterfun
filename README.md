@@ -2,7 +2,7 @@
 
 ## Intro
 
-The template was written using Materialize which is HTML, CSS ans JS framework for creation of Google style looking web designs.
+The template was written using Materialize which is HTML, CSS ans JS framework for creation of Google style looking web designs. The template was intended for water park that's why it is so colorful. I hope you will enjoy design because playing with CSS might be hard.
 
 ## Usage
 
